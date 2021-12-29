@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/navia_project/static/css/main.f12d96b4.css",
+    "main.js": "/navia_project/static/js/main.5ea307ae.js",
+    "static/js/787.48006ac2.chunk.js": "/navia_project/static/js/787.48006ac2.chunk.js",
+    "index.html": "/navia_project/index.html",
+    "main.f12d96b4.css.map": "/navia_project/static/css/main.f12d96b4.css.map",
+    "main.5ea307ae.js.map": "/navia_project/static/js/main.5ea307ae.js.map",
+    "787.48006ac2.chunk.js.map": "/navia_project/static/js/787.48006ac2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f12d96b4.css",
+    "static/js/main.5ea307ae.js"
+  ]
+}
